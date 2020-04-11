@@ -1,0 +1,2 @@
+# openTrivia
+A question game 
